@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/shurcooL/httpfs/vfsutil"
-	"github.com/shurcooL/httpgzip"
+	"github.com/alxerg/httpfs/vfsutil"
+	"github.com/alxerg/httpgzip"
 )
 
 //go:generate go run test_gen.go

@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/shurcooL/httpfs/union"
-	"github.com/shurcooL/vfsgen"
+	"github.com/alxerg/httpfs/union"
+	"github.com/alxerg/vfsgen"
 	"golang.org/x/tools/godoc/vfs/httpfs"
 	"golang.org/x/tools/godoc/vfs/mapfs"
 )
